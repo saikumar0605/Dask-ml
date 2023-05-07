@@ -10,10 +10,9 @@ Dask
 Scikit-learn
 Pandas
 Matplotlib
-You can install these libraries using pip:
-
-# Copy code
+# You can install these libraries using pip:
 pip install dask scikit-learn pandas matplotlib
+
 Once you have installed the required libraries, you can clone the repository and run the code:
 
 # bash
